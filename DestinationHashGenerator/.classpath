@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/puroh/Downloads/jackson-annotations-2.17.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/puroh/Downloads/jackson-databind-2.17.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/puroh/Downloads/jackson-core-2.17.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
